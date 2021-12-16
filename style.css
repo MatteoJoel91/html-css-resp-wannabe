@@ -73,8 +73,7 @@ img {
 }
 
 
-/* regole mediaquery */
-
+                                    /* regole media query */
 /* sezione "Come Funziona" */
 @media (max-width: 420px){
   #lezioni .row .left, #lezioni .row .right{
@@ -93,7 +92,6 @@ img {
   }
 }
 
-
 /* sezione "Lezioni dove vuoi tu" */
 @media (max-width: 420px){
   #steps .row .left, #steps .row .central, #steps .row .right{
@@ -111,7 +109,6 @@ img {
     width: 100%;
   }
 }
-
 
 /* sezione "Perchè Cademi" */
 @media (max-width: 420px){
@@ -152,7 +149,6 @@ img {
   }
 }
 
-
 /* sezione "Lezioni dove vuoi tu" */
 @media (min-width: 421px) and (max-width: 768px){
   #steps .row .left, #steps .row .central, #steps .row .right{
@@ -170,7 +166,6 @@ img {
     width: 100%;
   }
 }
-
 
 /* sezione "Perchè Cademi" */
 @media (min-width: 421px) and (max-width: 768px){
