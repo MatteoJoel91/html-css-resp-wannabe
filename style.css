@@ -97,7 +97,7 @@ img {
 }
 
 
-/* sezione "Come Funziona" */
+/* sezione "Lezioni dove vuoi tu" */
 @media screen and (max-width: 420px){
   #steps .row .left, #steps .row .central, #steps .row .right{
     float: none;
