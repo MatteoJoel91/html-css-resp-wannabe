@@ -74,7 +74,7 @@ img {
 
 
                                     /* regole media query */
-/* sezione "Come Funziona" */
+/* sezione "Lezioni dove vuoi tu" */
 @media (max-width: 420px){
   #lezioni .row .left, #lezioni .row .right{
     float: none;
@@ -82,6 +82,7 @@ img {
     text-align: center;
     width: 100%;
     font-size: 30px;
+    
   }
   #lezioni .row h1{
   font-size: 50px;
@@ -89,10 +90,11 @@ img {
   #lezioni .row{
     background-color: #f2f2cd;
     width: 100%;
+    margin-top: 0;
   }
 }
 
-/* sezione "Lezioni dove vuoi tu" */
+/* sezione "Come Funziona" */
 @media (max-width: 420px){
   #steps .row .left, #steps .row .central, #steps .row .right{
     float: none;
@@ -116,6 +118,7 @@ img {
     background-color: #f2f2cd;
     font-size: 30px;
     width: 100%;
+    margin-top: 0;
   }
   #why .row h1{
     font-size: 50px;
@@ -129,7 +132,7 @@ img {
 
 
                                           /* bonus */
-/* sezione "Come Funziona" */
+/* sezione "Lezioni dove vuoi tu" */
 @media (min-width: 421px) and (max-width: 768px){
   #lezioni .row .left, #lezioni .row .right{
     float: none;
@@ -146,10 +149,11 @@ img {
   #lezioni .row{
     background-color: #3268a8;
     width: 100%;
+    margin-top: 0;
   }
 }
 
-/* sezione "Lezioni dove vuoi tu" */
+/* sezione "Come Funziona" */
 @media (min-width: 421px) and (max-width: 768px){
   #steps .row .left, #steps .row .central, #steps .row .right{
     float: none;
